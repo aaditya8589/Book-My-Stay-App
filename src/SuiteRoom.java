@@ -1,0 +1,10 @@
+/**
+ * Represents a Suite Room
+ */
+
+public class SuiteRoom extends Room {
+
+    public SuiteRoom() {
+        super("Suite Room", 3, 600, 350.0);
+    }
+}
